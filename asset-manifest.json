@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/mycalender/static/js/main.0fdc12f3.js",
-    "index.html": "/mycalender/index.html",
-    "main.0fdc12f3.js.map": "/mycalender/static/js/main.0fdc12f3.js.map"
+    "main.js": "/calender/static/js/main.0fdc12f3.js",
+    "index.html": "/calender/index.html",
+    "main.0fdc12f3.js.map": "/calender/static/js/main.0fdc12f3.js.map"
   },
   "entrypoints": [
     "static/js/main.0fdc12f3.js"
